@@ -1,5 +1,9 @@
 # Setup
-### Tools:
-1. MobSF
-2. Android Studio
+## Tools:
+```
+1. Android Studio
+2. MobSF
+```
+```
 Emulator rooting process document.
+```
